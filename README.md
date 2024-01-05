@@ -12,12 +12,15 @@ A Python script that fetches real-time currency exchange rates by comparing two 
 
 1. Clone the repository
    ```bash
+   https://github.com/vikrant500/currency_rate_scrapper1.git
    ```
 2. Make sure you have the BeautifulSoup library installed. If not then enter the following in the terminal
    ```bash
+   pip install beautifulsoup4
    ```
 3. Make sure you have the Requests library installed. If not then enter the following in the terminal
    ```bash
+   pip install requests
    ```
 4. Run the program
 
